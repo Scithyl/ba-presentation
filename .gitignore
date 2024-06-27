@@ -1,4 +1,5 @@
 .idea/
+.github/
 *.iml
 *.iws
 *.eml
@@ -9,3 +10,5 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
+examples/
+test/
